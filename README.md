@@ -13,7 +13,7 @@ The project also features a **dynamic camera**, allowing the user to navigate th
 
 All source files are located in the `src/` directory:  
 
-- [Notebook](3D_Interactive_Scene.ipynb) – The main Jupyter Notebook containing code and documentation for the 3D scene.
+- [Notebook](3D_Interactive_Scene_Notebook.ipynb) – The main Jupyter Notebook containing code and documentation for the 3D scene.
 - [Images](images/) – Folder containing texture images applied to objects in the scene.  
 
 ## 🛠 Features  
